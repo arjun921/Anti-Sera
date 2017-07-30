@@ -15,9 +15,10 @@
 
 #### Run App
 
-Refer video or follow instructions below.
+Refer video: https://photos.app.goo.gl/7n25X5HLQqc1ZuqU2
 
-![](/Users/arjuns/Downloads/ezgif.com-video-to-gif.gif)
+or follow instructions
+
 
 1. Enter IP Address of machine running Django on Mobile Chrome Browser, this is a Progressive Web-App. Mobile and server should be connected to same network.
 2. Click on Menu, Add to HomeScreen.
