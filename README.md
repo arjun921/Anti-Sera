@@ -15,8 +15,10 @@
 
 #### Run App
 
-Refer video: https://photos.app.goo.gl/7n25X5HLQqc1ZuqU2
-or follow instructions
+Refer video or follow instructions below.
+
+![](/Users/arjuns/Downloads/ezgif.com-video-to-gif.gif)
+
 1. Enter IP Address of machine running Django on Mobile Chrome Browser, this is a Progressive Web-App. Mobile and server should be connected to same network.
 2. Click on Menu, Add to HomeScreen.
 3. Open `Anti-Sera` from Home-Screen
